@@ -1,0 +1,126 @@
+<div class="page-wrapper">
+           
+    <div class="container-fluid">
+                <br><br>
+                <div class="row">
+                    <div class="col-xl-3 col-lg-6 col-md-6 col-sm-12 col-12">
+                        <div class="polaroid">
+                            &nbsp;&nbsp;<div style="margin-left: 100px" class="card" style="width: 18rem;" class="page-wrapper">
+                                <img src="assets/img/user logo.jpg" class="card-img-top" alt="...">
+                                <div class="card-body">
+                                    <h5 class="card-title" Style="text-align: center">Hi, Mohanraj S</h5>
+                            
+                                </div>
+                                <ul class="list-group list-group-flush">
+                            
+                                    <li class="list-group-item" Style="text-align: center">Role: Mentor</li>
+                                    <li class="list-group-item" Style="text-align: center">No.of ongoing trainings: 4</li>
+                                    <li class="list-group-item" Style="text-align: center">Rating: 4.6</li>
+                                </ul>
+                                <div class="card-body">
+                                    <button type="button" class="btn btn-success" style="margin-left: 30%">Edit profile</button>
+                            
+                                </div>
+                            </div>    
+                        </div>
+                    </div>
+                    <div class="col-xl-9 col-lg-6 col-md-6 col-sm-12 col-12">
+                        <div class=row>
+                            <div class="container">
+                            <div class="polaroid">
+                                    <h3>Ongoing courses</h3><br>
+                                    <div class="container">
+                                            <div class="polaroid">
+                                                    <div class="card">
+                                                            <div class="card-header">
+                                                             On Progress
+                                                            </div>
+                                                            <div class="card-body">
+                                                              <h5 class="card-title">Course Name : Java</h5>
+                                                              <p></p>
+                                                              <div class="progress">
+                                                                <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 55%"></div>
+                                                              </div><br>
+                                                                  
+                                                              <a href="#" class="btn btn-primary">Go to session</a>
+                                                            </div>
+                                                          </div>
+                                            </div>
+                                    </div><br>
+                            </div>
+                            </div>
+                        </div><br>
+                        <div class=row>
+                    
+                        <div class="container">
+                        <div class="polaroid">
+                            <h3>Completed courses</h3><br>
+                           
+                                    <div class="table table-hover">
+                                            <table class="table">
+                                                <thead style="text-align: center">
+                                                    <tr>
+                                                        <th>Sl.no</th>
+                                                        <th>Course Name</th>
+                                                        <th>No.Of.Participants</th>
+                                                        <th>Payment</th>
+                                                        <th>User Rating</th>
+                                                        
+                                                    </tr>
+                                                </thead>
+                                                <tbody style="text-align: center"  class="table-info">
+                                                    <tr>
+                                                        <th>1</th>
+                                                        <td>Python</td>
+                                                        <td>24</td>
+                                                        <td>100</td>
+                                                        <td>4.7</td>
+                                                        
+                                                    </tr>
+                                                    <tr>
+                                                        <th>2</th>
+                                                        <td>Java</td>
+                                                        <td>24</td>
+                                                        <td>100</td>
+                                                        <td>4.7</td>
+                                                        
+                                                    </tr>
+                                                    <tr>
+                                                        <th>3</th>
+                                                        <td>Python</td>
+                                                        <td>24</td>
+                                                        <td>100</td>
+                                                        <td>4.7</td>
+                                                        
+                                                    </tr>
+                                                    <tr>
+                                                        <th>4</th>
+                                                        <td>React JS</td>
+                                                        <td>24</td>
+                                                        <td>100</td>
+                                                        <td>4.7</td>
+                                                        
+                                                    </tr>
+                                                    <tr>
+                                                        <th>5</th>
+                                                        <td>HTML5</td>
+                                                        <td>24</td>
+                                                        <td>100</td>
+                                                        <td>4.7</td>
+                                                        
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                             </div>           </div>
+                           
+                        </div>
+                        </div>
+                   </div>
+     
+            
+                
+                  
+                </div>
+            
+    </div>
+    </div>
